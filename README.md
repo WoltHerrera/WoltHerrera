@@ -15,7 +15,7 @@ Aquí te cuento un poco sobre mí.
   - Aprendizaje continuo en arquitectura de datos, observabilidad y soluciones modernas de datos.
 
 - 🛠 **Stack principal**
-  - **Lenguajes:** Python, SQL
+  - **Lenguajes:** Python, SQL, Scala
   - **Cloud:** AWS / Azure / GCP
   - **Procesamiento:** Spark, Databricks
   - **Orquestación:** Airflow, Azure Data Factory
