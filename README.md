@@ -16,7 +16,6 @@ Aquí te cuento un poco sobre mí.
 
 - 🛠 **Stack principal**
   - **Lenguajes:** Python, SQL, Scala
-  - **Cloud:** AWS / Azure / GCP
   - **Procesamiento:** Spark, Databricks
   - **Orquestación:** Airflow, Azure Data Factory
   - **Data Warehousing:** BigQuery, Snowflake, Synapse
