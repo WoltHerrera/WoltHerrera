@@ -22,8 +22,9 @@ Aquí te cuento un poco sobre mí.
   - **Otros:** Git, CI/CD, Docker
 
 - 📜 **Certificaciones / Aprendizaje**
-  - Aquí puedes colocar tus certificaciones, cursos o especializaciones
-  - Ejemplo: AWS / Azure / GCP / Databricks / Snowflake
+  - [Azure Data Engineer Associate (DP-203) – Microsoft](https://learn.microsoft.com/es-mx/users/waltermarioacuaherrera-7437/credentials/c0c11e9dafe11cc3)
+  - [Databricks Lakehouse Fundamentals – Databricks](https://credentials.databricks.com/cc4f73eb-d0fb-489e-84ed-6af5ea6299b4#gs.cdunuf)
+ 
 
 - 📫 **Contacto**
   - [LinkedIn](https://www.linkedin.com/)
